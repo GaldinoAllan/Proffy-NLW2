@@ -20,6 +20,14 @@
   --color-button-text: #FFFFFF;
   --color-box-base: #FFFFFF;
   --color-box-footer: #FAFAFC;
+
+  --color-dark-background: #363638;
+  --color-dark-text-title: #8B6AD9;
+  --color-dark-text-base: #A99BCC;
+  --color-dark-line-in-white: #6C6C70;
+  --color-dark-input-background: #3C3C3D;
+  --color-dark-box-base: #404040;
+  --color-dark-box-footer: #3D3D3D;
 }
 
 *{
