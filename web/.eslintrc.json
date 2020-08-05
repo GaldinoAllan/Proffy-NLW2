@@ -36,6 +36,7 @@
     "react-hooks/exhaustive-deps": "warn",
     "react/prop-types": "off",
     "jsx-a11y/label-has-associated-control": "off",
+    "@typescript-eslint/camelcase": "off",
     "react/jsx-filename-extension": [
       1,
       {
