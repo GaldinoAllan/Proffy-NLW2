@@ -34,6 +34,8 @@
     "prettier/prettier": "error",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    "react/prop-types": "off",
+    "jsx-a11y/label-has-associated-control": "off",
     "react/jsx-filename-extension": [
       1,
       {
