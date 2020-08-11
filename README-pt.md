@@ -10,26 +10,26 @@
 </div>
 
 
-> :rocket: Connecting teachers to students, made within Next Level Week #2 @Rocketseat
+> :rocket: Conectando professores com estudantes, feito junto ao Next Level Week #2 @Rocketseat
 
 <p align="center">
-    <a href="README.md">English</a>
+    <a href="README.md">Inglês</a>
     ·
-    <a href="README-pt.md">Portuguese</a>
+    <a href="README-pt.md">Português</a>
  </p>
 
 
-# :pushpin: Table of Contents
+# :pushpin: Tabela de Conteúdo
 
-- [:pushpin: Table of Contents](#pushpin-table-of-contents)
-    - [Web Screenshot](#web-screenshot)
-    - [Mobile Screenshot](#mobile-screenshot)
-- [:computer: Technologies](#computer-technologies)
+- [:pushpin: Tabela de Conteúdo](#pushpin-tabela-de-conteúdo)
+    - [Screenshot Web](#screenshot-web)
+    - [Screenshot Mobile](#screenshot-mobile)
+- [:computer: Tecnologias](#computer-tecnologias)
 - [:rocket: Features](#rocket-features)
-- [:construction_worker: How to run](#construction_worker-how-to-run)
-    - [📦 Running API](#-running-api)
-    - [💻 Running Web Project](#-running-web-project)
-    - [📱 Running Mobile Project](#-running-mobile-project)
+- [:construction_worker: Como rodar](#construction_worker-como-rodar)
+    - [📦 Rodando API](#-rodando-api)
+    - [💻 Rodando Projeto Web](#-rodando-projeto-web)
+    - [📱 Rodando Projeto Mobile](#-rodando-projeto-mobile)
 - [:bug: Issues](#bug-issues)
 - [:closed_book: License](#closed_book-license)
 
@@ -43,13 +43,13 @@
     </a>
 </p>
 
-### Web Screenshot
+### Screenshot Web
 <div>
    <img src="./.github/web-landing.png" width="400px">
    <img src="./.github/web-list.png" width="400px">
 </div>
 
-### Mobile Screenshot
+### Screenshot Mobile
 <div>
    <img src="./.github/mobile-splash.png" width="180">
    <img src="./.github/mobile-onboarding.png" width="180">
@@ -57,8 +57,8 @@
    <img src="./.github/mobile-favoritos.png" width="180">
 </div>
 
-# :computer: Technologies
-This project was made using the follow technologies:
+# :computer: Tecnologias
+Projeto feito usando as seguintes tecnologias:
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
@@ -67,69 +67,68 @@ This project was made using the follow technologies:
 
 # :rocket: Features
 
-* Website to sign up teachers and students.
-* App to connect teachers and students.
+* Website para cadastrar professores e estudantes.
+* App para conectar professores e estudantes.
 
-# :construction_worker: How to run
+# :construction_worker: Como rodar
 ```bash
-# Clone Repository
+# Clonar Repositório
 $ https://github.com/GaldinoAllan/Proffy-NLW2.git
 ```
-### 📦 Running API
+### 📦 Rodando API
 
 ```bash
-# Go to server folder
+# Ir para pasta server
 $ cd Proffy-NLW2/server
 
-# Install Dependencies
+# Instalar Dependências
 $ yarn
 
-# Run Application
+# Rodar Aplicacão
 $ yarn start
 ```
-API hosted at http://localhost:3333/
+API hosted em http://localhost:3333/
 
-### 💻 Running Web Project
+### 💻 Rodando Projeto Web
 
 ```bash
-# Go to web folder
+# Ir para pasta web
 $ cd Proffy-NLW2/web
 
-# Install Dependencies
+# Instalar Dependências
 $ yarn
 
-# Run Application
+# Rodar Aplicacão
 $ yarn start
 ```
-Go to http://localhost:3000/ to see the result.
+Ir para http://localhost:3000/ para ver o resultado.
 
-### 📱 Running Mobile Project
-To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) installed or a emulator android/ios.
+### 📱 Rodando Projeto Mobile
+Para rodar a aplicacão mobile é necessário um celular com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador iOS/Android.
 <br />
-After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
+Após isso, faca um fork ou um clone do repositório na sua máquina.
+Dentro da pasta do projeto, rode os seguintes comandos.
 
 ```bash
-# Go to mobile folder
+# Ir para pasta mobile
 $ cd Proffy-NLW2/mobile
 
-# Install Dependencies
+# Instalar Dependências
 $ yarn
 
-# Run Application
+# Rodar aplicacão
 $ yarn start
 ```
-Then scan the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
-
+Em seguida, escaneie o QRCode dentro do app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode no emulador.
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Proffy](https://github.com/GaldinoAllan/Proffy-NLW2) repository. If you already found a solution to the problem, **I would love to review your pull request**!
-
+Sinta-se a vontade de **adicionar uma nova issue** com o título e a descricão coerente no repositório do [Proffy](https://github.com/GaldinoAllan/Proffy-NLW2). Se você já achou a solucão de algum problema, **ficarei muito feliz de revisar seu pull request**!
 
 # :closed_book: License
 
-Released in 2020 :closed_book: [License](./LICENSE.md)
+Liberado em 2020 :closed_book: [License](./LICENSE.md)
 
-Made with love by [Allan Galdino](https://github.com/GaldinoAllan) 🚀.
+Feito com amor por :rocket: [Allan Galdino](https://github.com/GaldinoAllan) :purple_heart:.
 
-Give a ⭐️ if this project helped you!
+Dê um :star: se esse projeto te ajudou!
